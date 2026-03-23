@@ -20,3 +20,6 @@ This guide provides step-by-step instructions to download and install Visual Stu
 
 ## Result
 Visual Studio Code is installed and ready to use.
+
+## Commit message:
+Improved Clarity, added verification section, and refined steps.
