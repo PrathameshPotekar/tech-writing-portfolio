@@ -1,17 +1,22 @@
+# How to Install Visual Studio Code on Windows and Mac
 
-# How to Install VS Code
+## Overview
+This guide provides step-by-step instructions to download and install Visual Studio Code on your system.
 
-## Introduction
-Visual Studio Code is a lightweight and free code editor used for development.
+## Prerequisites
+- Internet connection
+- Windows or Mac computer
 
 ## Steps
-1. Open a web browser
-2. Go to the official VS Code website
-3. Download the installer
-4. Run the installer
-5. Follow setup instructions
-6. Launch VS Code
+1. Open a web browser and go to https://code.visualstudio.com
+2. Click **Download for Windows** or **Download for Mac**
+3. Open the downloaded installer file
+4. Follow the on-screen installation instructions
+5. Launch Visual Studio Code after installation
 
-## Notes
-- It is free to use
-- Supports multiple programming languages
+## Verification
+- Open Visual Studio Code
+- Ensure the application launches successfully without errors
+
+## Result
+Visual Studio Code is installed and ready to use.
